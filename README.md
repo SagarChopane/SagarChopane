@@ -34,9 +34,31 @@
 ## 🤝 Let’s Connect  
 <div align="center">
 
-📧 **Email:** minimilitian1100@gmail.com  
-🔗 **LinkedIn:** https://linkedin.com/in/sagar-chopne-86a4031b7  
-🐙 **GitHub:** https://github.com/SagarChopane  
+<!-- Email -->
+<a href="mailto:sagarchopane@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/?size=512&id=12580&format=png"
+       width="60" alt="Email"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<!-- LinkedIn -->
+<a href="https://linkedin.com/in/sagar-chopne-86a4031b7" target="_blank">
+  <img src="https://img.icons8.com/?size=512&id=13930&format=png"
+       width="60" alt="LinkedIn"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<!-- GitHub -->
+<a href="https://github.com/SagarChopane" target="_blank">
+  <img src="https://img.icons8.com/?size=512&id=12599&format=png"
+       width="60" alt="GitHub"/>
+</a>
+
+</div>
+
+<br/>
 
 </div>
 
