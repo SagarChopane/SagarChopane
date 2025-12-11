@@ -3,6 +3,16 @@
 
 ---
 
+## 🌐 Portfolio  
+<div align="center">
+  
+🔗 **Live Portfolio:**  
+👉 https://jazzy-cucurucho-6cbfc8.netlify.app/
+
+</div>
+
+---
+
 ## 🧑‍💻 Tech Stack & Tools  
 <div align="center">
 
