@@ -1,32 +1,43 @@
-🚀 Hi, I'm Sagar Chopane
-Full-Stack MERN Developer | Frontend Enthusiast | Lifelong Learner
+<h1 align="center">🚀 Hi, I'm <span style="color:#4CAF50">Sagar Chopane</span></h1>
+<h3 align="center">Full-Stack MERN Developer | Frontend Enthusiast | Lifelong Learner</h3>
 
-🧑‍💻 Tech Stack & Tools
-<div>
-  <img src="https://camo.githubusercontent.com/285065188542f753694a95c2abf3bf49e55d8ce76171760281b90b48a2feed75/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3035313232413f7374796c653d666c6174266c6f676f3d48544d4c35" width="100"/>
-  <img src="https://camo.githubusercontent.com/e2e86d19912df50ad32336b844dffa3162d4dadc6a7da711b409f4826e2ff2a6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3035313232413f7374796c653d666c6174266c6f676f3d43535333266c6f676f436f6c6f723d313537324236" width="100"/>
-    <img src="https://camo.githubusercontent.com/816fca1ab69111bdc0cbde936bfe55f8267baa29ae7169210968feb1c42a39cf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3035313232413f7374796c653d666c6174266c6f676f3d6a617661736372697074" width="100"/>
-      <img src="https://camo.githubusercontent.com/896c9f01fc8b046762d831eec794f5f8220d17887c2ad0fc462181f10db6c09d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3035313232413f7374796c653d666c6174266c6f676f3d7265616374" width="100"/>
-  <img src="https://camo.githubusercontent.com/1dd524753b7edbdd2c1808a4d8b5d6eb1ad2aed2b79fad74efb597a9661cf402/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652e6a732d3035313232413f7374796c653d666c6174266c6f676f3d6e6f64652e6a73" width="100"/>
-    <img src="" width="100"/>
-  
-</div>
+---
 
-
-📊 GitHub Stats
+## 🧑‍💻 Tech Stack & Tools  
 <div align="center">
 
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+
 </div>
 
+---
 
-🤝 Let’s Connect
+## 📊 GitHub Stats  
+<div align="center">
 
-📧 Email: sagarchopane@gmail.com
+  <img src="https://github-readme-stats.vercel.app/api?username=SagarChopane&show_icons=true&theme=react" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SagarChopane&theme=react" height="160" />
 
-🔗 LinkedIn: https://linkedin.com/in/sagar-chopne-86a4031b7
+</div>
 
-🐙 GitHub: https://github.com/SagarChopane
+---
 
-🙌 Thanks for visiting my profile!
+## 🤝 Let’s Connect  
+<div align="center">
 
-Feel free to explore my repositories — I'm always open to collaboration 😊
+📧 **Email:** sagarchopane@gmail.com  
+🔗 **LinkedIn:** https://linkedin.com/in/sagar-chopne-86a4031b7  
+🐙 **GitHub:** https://github.com/SagarChopane  
+
+</div>
+
+---
+
+<h3 align="center">🙌 Thanks for visiting my profile!</h3>
+<p align="center">Feel free to explore my repositories — I'm always open to collaboration 😊</p>
