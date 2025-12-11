@@ -34,7 +34,7 @@
 ## 🤝 Let’s Connect  
 <div align="center">
 
-📧 **Email:** sagarchopane@gmail.com  
+📧 **Email:** minimilitian1100@gmail.com  
 🔗 **LinkedIn:** https://linkedin.com/in/sagar-chopne-86a4031b7  
 🐙 **GitHub:** https://github.com/SagarChopane  
 
