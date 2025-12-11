@@ -1,9 +1,6 @@
 🚀 Hi, I'm Sagar Chopane
 Full-Stack MERN Developer | Frontend Enthusiast | Lifelong Learner
 
-I’m a passionate Full-Stack Developer who loves building clean, responsive, and user-friendly web applications.
-Focused on React, Node.js, and modern JavaScript — always learning and improving!
-
 🧑‍💻 Tech Stack & Tools
 Frontend
 
@@ -15,33 +12,6 @@ Backend
 
 🛠 Node.js • Express.js
 🛠 MongoDB • Mongoose
-
-Tools
-
-🔧 Git & GitHub
-🔧 Postman
-🔧 Netlify • Vercel
-🔧 VS Code
-
-📌 Highlighted Projects
-🔹 Online Pharmacy App
-
-A modern pharmacy platform with seamless shopping experience.
-✔ Search & Filters
-✔ Sorting
-✔ Real-time Cart Management
-✔ Mobile Responsive
-Tech: React, Vite, Context API
-🔗 Live Demo | Code Repo
-
-🔹 Movie-Desk App
-
-A global movie finder app with IMDb ratings.
-✔ Search any movie
-✔ Fetch real-time IMDb rating
-✔ Lightweight UI
-Tech: HTML, CSS, JavaScript, OMDb API
-🔗 Live Demo | Code Repo
 
 📊 GitHub Stats
 <div align="center">
@@ -64,6 +34,7 @@ Build production-ready MERN applications
 Contribute to open-source projects
 
 Become a strong full-stack engineer
+https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif
 
 🤝 Let’s Connect
 
