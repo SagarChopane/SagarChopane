@@ -4,12 +4,17 @@
 ---
 
 ## 🌐 Portfolio  
-<div align="center">
-  
-🔗 **Live Portfolio:**  
-👉 https://jazzy-cucurucho-6cbfc8.netlify.app/
+## 🌐 Portfolio
 
+<div align="center">
+  <a href="https://jazzy-cucurucho-6cbfc8.netlify.app/" target="_blank">
+    <img src="https://img.icons8.com/?size=512&id=22989&format=png" 
+         width="120" alt="Portfolio Icon"/>
+  </a>
+  <br/>
+  <sub>Click the icon to visit my portfolio</sub>
 </div>
+
 
 ---
 
