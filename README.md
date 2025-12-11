@@ -50,15 +50,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<!-- GitHub -->
-<a href="https://github.com/SagarChopane" target="_blank">
-  <img src="https://img.icons8.com/glyph-neue/512/github.png"
-       width="65" alt="GitHub" style="filter: invert(0%);"/>
-</a>
-
-</div>
-
-<br/>
 
 </div>
 
