@@ -40,7 +40,6 @@
        width="65" alt="Email"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 <!-- LinkedIn -->
 <a href="https://linkedin.com/in/sagar-chopne-86a4031b7" target="_blank">
