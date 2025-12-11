@@ -34,7 +34,8 @@ Build production-ready MERN applications
 Contribute to open-source projects
 
 Become a strong full-stack engineer
-https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="350"/>
+
 
 🤝 Let’s Connect
 
