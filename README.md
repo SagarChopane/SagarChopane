@@ -5,22 +5,9 @@
 
 ## 🌐 Portfolio  
 <div align="center">
-  <a href="https://jazzy-cucurucho-6cbfc8.netlify.app/" target="_blank">
-    <img src="https://img.icons8.com/?size=512&id=22989&format=png" 
-         width="80" alt="Portfolio Icon"/>
-  </a>
-  <br/>
-  <sub>Click the icon to visit my portfolio</sub>
-</div>
-<div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-green?style=for-the-badge&logo=netlify)](https://jazzy-cucurucho-6cbfc8.netlify.app/)
 
-</div>
-<div align="center">
-  <a href="https://jazzy-cucurucho-6cbfc8.netlify.app/" target="_blank">
-    <img src="https://media.giphy.com/media/3oKIP9GZpBzQmJw3Ha/giphy.gif" width="200" />
-  </a>
 </div>
 
 
