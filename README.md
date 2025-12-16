@@ -41,11 +41,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SagarChopane&show_icons=true&theme=react&hide_border=true" height="165" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarChopane&layout=compact&theme=react&hide_border=true" height="165" />
-  <div align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=SagarChopane&label=Profile%20Views&color=green&style=for-the-badge" />
-
-</div>
+  
 
 </div>
 
