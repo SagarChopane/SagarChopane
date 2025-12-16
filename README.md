@@ -41,14 +41,18 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=SagarChopane&show_icons=true&theme=react&hide_border=true" height="165" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarChopane&layout=compact&theme=react&hide_border=true" height="165" />
-  
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=SagarChopane&show_icons=true&hide_border=true&bg_color=00000000"
+    height="140"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarChopane&layout=compact&hide_border=true&bg_color=00000000"
+    height="140"
+    alt="Top Languages"
+  />
 
 </div>
-
 
 ### 🤝 Let’s Connect
 
