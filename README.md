@@ -16,7 +16,7 @@
 
 
 
-## 🌐 Portfolio
+### 🌐 Portfolio
 
 <div align="center">
 
@@ -38,7 +38,7 @@
 
 
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
   <img
@@ -71,6 +71,5 @@
       height="40"
     />
   </a>
-
 </div>
 
