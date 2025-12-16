@@ -14,23 +14,10 @@
   <li>Continuously strengthening React, Node.js, and database fundamentals</li>
 </ul>
 
-
-<div align="center">
+### 🌐 Portfolio
   <a href="https://jazzy-cucurucho-6cbfc8.netlify.app/" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/Portfolio-Live-4CAF50?style=flat" 
-      alt="Portfolio" 
-      height="45" 
-    />
+    <img src="https://img.shields.io/badge/Portfolio-Live-4CAF50?style=flat" alt="Portfolio" height="100" width="100" />
   </a>
-</div>
-
-
-
-
-
-
-
 
 ### 🧑‍💻 Tech Stack & Tools
 <p align="center">
