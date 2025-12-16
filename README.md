@@ -26,19 +26,13 @@
 
 
 ### 🧑‍💻 Tech Stack & Tools
+<p align="center">
+  <img
+    src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,javascript,react,nodejs,express,mongodb,git,github,vercel,netlify&titles=true"
+    alt="My Skills"
+  />
+</p>
 
-<div align="center">
-
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-
-</div>
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,javascript,react,node,express,mongodb,git,github,vercel,netlify)
 
 
 ## 📊 GitHub Stats
