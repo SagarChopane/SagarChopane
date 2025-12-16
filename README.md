@@ -48,6 +48,6 @@
     <img src="https://img.icons8.com/color/512/linkedin.png" width="65" alt="LinkedIn"/>
   </a>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
+
 
 </div>
