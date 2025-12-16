@@ -2,9 +2,9 @@
 <img width="1024" height="329" alt="image" src="https://github.com/user-attachments/assets/e78bb74b-fd63-4885-860a-6fc52260e683" />
 
 ### 👋 Who am I?
-<h4 >
-  Full-Stack MERN Developer | Frontend Enthusiast | Lifelong Learner
-</h4>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&color=0D46AD&center=true&width=1000&height=61&lines=Full-Stack+MERN+Developer;Frontend+Enthusiast;Lifelong+Learner)](https://osa-portfolio.vercel.app/)
+
+
 
 ### 👨🏻‍💻Current Focus
 <ul>
