@@ -1,27 +1,21 @@
-<img width="1000" height="300" alt="image" src="https://github.com/user-attachments/assets/a161790f-689a-4c74-a88a-5efe8056e587" />
 
+<img width="1024" height="329" alt="image" src="https://github.com/user-attachments/assets/e78bb74b-fd63-4885-860a-6fc52260e683" />
 
-<h1 >
-  Hi, 🏠 Welcome to my Github profile.
-  
-</h1>
+🏠 Welcome to my Github profile.
 
-<h3 >
+### Who am I?
+<h4 >
   Full-Stack MERN Developer | Frontend Enthusiast | Lifelong Learner
-</h3>
+</h4>
 
 ## 👨🏻‍💻 About Me
 <p>
   Building scalable web applications with the MERN stack <br/>
-  Emphasis on clean code, performance, and maintainable architecture <br/>
+  Emphasis on clean code, performance and optimisation <br/>
   Exploring modern frontend tools and component-driven UI development <br/>
   Continuously improving React, Node.js, and database fundamentals
 </p>
 
-
-
-
----
 
 ## 🌐 Portfolio
 
@@ -31,7 +25,6 @@
 
 </div>
 
----
 
 ## 🧑‍💻 Tech Stack & Tools
 
@@ -47,8 +40,6 @@
 
 </div>
 
----
-
 
 ## 📊 GitHub Stats
 
@@ -61,7 +52,6 @@
 
 </div>
 
----
 
 ## 🤝 Let’s Connect
 
@@ -77,6 +67,5 @@
     <img src="https://img.icons8.com/color/512/linkedin.png" width="65" alt="LinkedIn"/>
   </a>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
 
 </div>
