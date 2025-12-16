@@ -1,6 +1,6 @@
+<img width="1024" height="448" alt="image" src="https://github.com/user-attachments/assets/a161790f-689a-4c74-a88a-5efe8056e587" />
 
 
- <img src="https://gemini.google.com/share/ef2625e08ddc" />
 <h1 align="center">
   Hi, 🏠 Welcome to my Github profile.
   
