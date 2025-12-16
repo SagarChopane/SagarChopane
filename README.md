@@ -1,20 +1,19 @@
 
 <img width="1024" height="329" alt="image" src="https://github.com/user-attachments/assets/e78bb74b-fd63-4885-860a-6fc52260e683" />
 
-🏠 Welcome to my Github profile.
-
 ### Who am I?
 <h4 >
   Full-Stack MERN Developer | Frontend Enthusiast | Lifelong Learner
 </h4>
 
-## 👨🏻‍💻 About Me
-<p>
-  Building scalable web applications with the MERN stack <br/>
-  Emphasis on clean code, performance and optimisation <br/>
-  Exploring modern frontend tools and component-driven UI development <br/>
-  Continuously improving React, Node.js, and database fundamentals
-</p>
+### 👨🏻‍💻Current Focus
+<ul>
+  <li>Building scalable web applications with the MERN stack</li>
+  <li>Focused on clean code, performance, and optimization</li>
+  <li>Exploring modern frontend tools and component-driven UI development</li>
+  <li>Continuously strengthening React, Node.js, and database fundamentals</li>
+</ul>
+
 
 
 ## 🌐 Portfolio
@@ -26,7 +25,7 @@
 </div>
 
 
-## 🧑‍💻 Tech Stack & Tools
+### 🧑‍💻 Tech Stack & Tools
 
 <div align="center">
 
@@ -39,6 +38,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
 
 </div>
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,javascript,react,node,express,mongodb,git,github,vercel,netlify)
 
 
 ## 📊 GitHub Stats
