@@ -20,9 +20,12 @@
 
 <div align="center">
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-View%20Live-4CAF50?style=flat&logo=netlify&logoColor=white)](https://jazzy-cucurucho-6cbfc8.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-4CAF50?style=flat)](https://jazzy-cucurucho-6cbfc8.netlify.app/)
 
 </div>
+
+
+
 
 
 ### 🧑‍💻 Tech Stack & Tools
@@ -47,19 +50,23 @@
 </div>
 
 
-## 🤝 Let’s Connect
+### 🤝 Let’s Connect
 
 <div align="center">
-
-  <!-- Email -->
   <a href="mailto:sagarchopane@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/512/gmail-new.png" width="65" alt="Email"/>
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=gmail"
+      alt="Email"
+      height="40"
+    />
   </a>
-
-  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/sagar-chopne-86a4031b7" target="_blank">
-    <img src="https://img.icons8.com/color/512/linkedin.png" width="65" alt="LinkedIn"/>
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=linkedin"
+      alt="LinkedIn"
+      height="40"
+    />
   </a>
-
 
 </div>
+
