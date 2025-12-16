@@ -1,6 +1,6 @@
 <h1 align="center">
-  Hi, I'm <span style="color:#4CAF50">Sagar Chopane</span>
-  🏠 Welcome to my Github profile.
+  Hi, 🏠 Welcome to my Github profile.
+  
 </h1>
 
 <h3 align="center">
