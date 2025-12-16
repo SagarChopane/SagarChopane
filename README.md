@@ -52,7 +52,4 @@
 
 </div>
 
----
 
-<h3 align="center">🙌 Thanks for visiting my profile!</h3>
-<p align="center">Feel free to explore my repositories — I'm always open to collaboration 😊</p>
