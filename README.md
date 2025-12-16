@@ -1,16 +1,17 @@
 <img width="1000" height="300" alt="image" src="https://github.com/user-attachments/assets/a161790f-689a-4c74-a88a-5efe8056e587" />
 
 
-<h1 align="center">
+<h1 >
   Hi, 🏠 Welcome to my Github profile.
   
 </h1>
 
-<h3 align="center">
+<h3 >
   Full-Stack MERN Developer | Frontend Enthusiast | Lifelong Learner
 </h3>
 
-<p align="center">
+## 👨🏻‍💻 About Me
+<p>
   Building scalable web applications with the MERN stack <br/>
   Emphasis on clean code, performance, and maintainable architecture <br/>
   Exploring modern frontend tools and component-driven UI development <br/>
