@@ -1,3 +1,6 @@
+
+
+ <img src="https://gemini.google.com/share/ef2625e08ddc" />
 <h1 align="center">
   Hi, 🏠 Welcome to my Github profile.
   
