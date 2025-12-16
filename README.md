@@ -15,14 +15,18 @@
 </ul>
 
 
-
-### 🌐 Portfolio
-
 <div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-4CAF50?style=flat)](https://jazzy-cucurucho-6cbfc8.netlify.app/)
-
+  <a href="https://jazzy-cucurucho-6cbfc8.netlify.app/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Portfolio-Live-4CAF50?style=flat" 
+      alt="Portfolio" 
+      height="45" 
+    />
+  </a>
 </div>
+
+
+
 
 
 
