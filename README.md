@@ -12,8 +12,7 @@
 
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Live-green?style=for-the-badge&logo=netlify)]
-  (https://jazzy-cucurucho-6cbfc8.netlify.app/)
+ [![Live Portfolio](https://img.shields.io/badge/Live-Portfolio-green?style=for-the-badge&logo=netlify)](https://jazzy-cucurucho-6cbfc8.netlify.app/)
   
 </div>
 
