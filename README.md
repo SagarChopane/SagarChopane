@@ -9,7 +9,7 @@
   ⚙️ Focused on clean architecture, performance & best practices <br/>
   🎨 Experimenting with modern UI systems and component libraries <br/>
   📚 Continuously strengthening React, Node.js & database skills <br/>
-  🚀 Getting hands-on with version control, containers & deployment workflows
+ 
 </p>
 
 
