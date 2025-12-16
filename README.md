@@ -1,6 +1,13 @@
 <h1 align="center">
   🚀 Hi, I'm <span style="color:#4CAF50">Sagar Chopane</span>
 </h1>
+<p align="center">
+  🔭 Currently crafting scalable MERN applications <br/>
+  ⚙️ Focused on clean architecture, performance & best practices <br/>
+  🎨 Experimenting with modern UI systems and component libraries <br/>
+  📚 Continuously strengthening React, Node.js & database skills <br/>
+  🚀 Getting hands-on with version control, containers & deployment workflows
+</p>
 
 <h3 align="center">
   Full-Stack MERN Developer | Frontend Enthusiast | Lifelong Learner
