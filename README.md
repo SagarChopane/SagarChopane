@@ -22,7 +22,7 @@
 
 <div align="center">
 
-  [![Live Portfolio](https://img.shields.io/badge/Live-Portfolio-green?style=for-the-badge&logo=netlify)](https://jazzy-cucurucho-6cbfc8.netlify.app/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-View%20Live-4CAF50?style=flat&logo=netlify&logoColor=white)](https://jazzy-cucurucho-6cbfc8.netlify.app/)
 
 </div>
 
@@ -32,17 +32,18 @@
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
 
 </div>
 
 ---
+
 
 ## 📊 GitHub Stats
 
