@@ -1,7 +1,7 @@
 
 <img width="1024" height="329" alt="image" src="https://github.com/user-attachments/assets/e78bb74b-fd63-4885-860a-6fc52260e683" />
 
-### Who am I?
+### 👋 Who am I?
 <h4 >
   Full-Stack MERN Developer | Frontend Enthusiast | Lifelong Learner
 </h4>
