@@ -15,12 +15,13 @@
 </ul>
 
 ### 🌐 Portfolio
-<a href="https://clinquant-dusk-ad883d.netlify.app/" target="_blank" target="_blank">
+<a href="https://clinquant-dusk-ad883d.netlify.app/" target="_blank">
   <img
     src="https://img.shields.io/badge/Portfolio-Live-4CAF50?style=flat"
     alt="Portfolio"
     height="100"
     width="100"
+    target="_blank"
   />
 </a>
 
